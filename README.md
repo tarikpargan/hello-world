@@ -1,4 +1,3 @@
-# hello-world
-<h1>A starting and inspired programmer</h1>
-Hey guys,
-Currently I am working on my HTML, CSS and Javascript skills. Before that, I trained my Java Skills.
+<h1><i>A starting and inspired programmer</i></h1>
+<p style = "color: bindi;">Hey guys,
+Currently I am working on my HTML, CSS and Javascript skills. Before that, I trained my Java Skills.</p>
